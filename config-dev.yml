@@ -1,6 +1,2 @@
-server:
-  port: 8080
-
-spring:
-  application:
-    name: this is config-dev
+config:
+  info: config-dev.yml version=1

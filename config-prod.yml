@@ -1,6 +1,2 @@
-server:
-  port: 8081
-
-spring:
-  application:
-    name: this is config-prod
+config:
+  info: config-prod.yml version=1
